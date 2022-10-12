@@ -6,22 +6,16 @@
 
 ### Links and Resources
 
-- [Link01]()
-- [Link02]()
 
 ### Setup
 
 #### `.venv` requirements (where applicable)
 
-i.e.
-
-- `PORT` - Port Number
-- `DATABASE_URL` - URL to the running Postgres instance/db
 
 #### How to initialize/run your application (where applicable)
 
-- e.g. `python main.py` 
-`python -m madlib`
+- e.g. `python pythonic_garage_band/band.py` 
+`python -m pythonic_garage_band.band`
 
 #### How to use your library (where applicable)
 1- pip install pytest
@@ -31,10 +25,10 @@ i.e.
 
 - How do you run tests?
    * `pytest`
-   * `pytest test/test_series.py`
+   * `pytest tests/test_band.py`
 
 - Any tests of note?no
 Describe any tests that you did not complete, skipped, etc no ,all the test copmlete
 
 ### pull request link :
-[final pull request link]()
+[final pull request link](https://github.com/WalaaAtiah/pythonic-garage-band/pull/1)
